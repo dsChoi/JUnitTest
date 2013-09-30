@@ -1,7 +1,8 @@
+package tree;
 import org.junit.Test;
 
-import com.spring.mvc.board.controller.Node;
-import com.spring.mvc.board.controller.Tree;
+import tree.Node;
+import tree.Tree;
 
 
 public class TreeTest {

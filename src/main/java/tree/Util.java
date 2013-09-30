@@ -1,4 +1,4 @@
-package com.spring.mvc.board.controller;
+package tree;
 
 public class Util {
 
